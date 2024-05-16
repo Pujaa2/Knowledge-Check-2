@@ -1,0 +1,15 @@
+C:\Users\pujaa\source\repos\knowledge-check-2\bin\Debug\net8.0\knowledge-check-2.exe
+C:\Users\pujaa\source\repos\knowledge-check-2\bin\Debug\net8.0\knowledge-check-2.deps.json
+C:\Users\pujaa\source\repos\knowledge-check-2\bin\Debug\net8.0\knowledge-check-2.runtimeconfig.json
+C:\Users\pujaa\source\repos\knowledge-check-2\bin\Debug\net8.0\knowledge-check-2.dll
+C:\Users\pujaa\source\repos\knowledge-check-2\bin\Debug\net8.0\knowledge-check-2.pdb
+C:\Users\pujaa\source\repos\knowledge-check-2\obj\Debug\net8.0\knowledge-check-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pujaa\source\repos\knowledge-check-2\obj\Debug\net8.0\knowledge-check-2.AssemblyInfoInputs.cache
+C:\Users\pujaa\source\repos\knowledge-check-2\obj\Debug\net8.0\knowledge-check-2.AssemblyInfo.cs
+C:\Users\pujaa\source\repos\knowledge-check-2\obj\Debug\net8.0\knowledge-check-2.csproj.CoreCompileInputs.cache
+C:\Users\pujaa\source\repos\knowledge-check-2\obj\Debug\net8.0\knowledge-check-2.sourcelink.json
+C:\Users\pujaa\source\repos\knowledge-check-2\obj\Debug\net8.0\knowledge-check-2.dll
+C:\Users\pujaa\source\repos\knowledge-check-2\obj\Debug\net8.0\refint\knowledge-check-2.dll
+C:\Users\pujaa\source\repos\knowledge-check-2\obj\Debug\net8.0\knowledge-check-2.pdb
+C:\Users\pujaa\source\repos\knowledge-check-2\obj\Debug\net8.0\knowledge-check-2.genruntimeconfig.cache
+C:\Users\pujaa\source\repos\knowledge-check-2\obj\Debug\net8.0\ref\knowledge-check-2.dll
